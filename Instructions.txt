@@ -1,0 +1,23 @@
+El sistema deberá estar separado por Frontend y Backend
+En el sistema front deberás considerar colores formales y sobrios propios de un corporativo
+En la información del usuario deberás integrar aspectos como:
+Nombre, apellido paterno, apellido materno, edad, fecha de nacimiento, estado civil, teléfono,  país, estado, municipio, localidad, código postal, idioma, pasatiempo y preferencias [playa, ciudad, bosque, pueblos, etc]
+ 
+
+Entrega de producto:
+
+ 
+
+Código fuente debidamente comentado
+Código para deploy en producción
+Manual de usuario
+Manual de ambiente local (de instalación)
+Diccionario de datos y estructura en sql (o alguna otra base, en este caso especificar base de datos e instalación de la misma).
+Evidencias de funcionamiento completo, puede ser imágenes meramente enumeradas o bien un video corto de la solución.
+ 
+
+Fecha límite de entrega:
+
+ 
+
+Viernes 20 de enero 2023 – 9:00am

@@ -1,7 +1,7 @@
 El sistema deberá estar separado por Frontend y Backend
 En el sistema front deberás considerar colores formales y sobrios propios de un corporativo
 En la información del usuario deberás integrar aspectos como:
-Nombre, apellido paterno, apellido materno, edad, fecha de nacimiento, estado civil, teléfono,  país, estado, municipio, localidad, código postal, idioma, pasatiempo y preferencias [playa, ciudad, bosque, pueblos, etc]
+Nombre, apellido paterno, apellido materno, edad, fecha de nacimiento, estado civil, teléfono,  país, estado, municipio, localidad, código postal, idioma [ ], pasatiempo y preferencias [playa, ciudad, bosque, pueblos, etc]
  
 
 Entrega de producto:
